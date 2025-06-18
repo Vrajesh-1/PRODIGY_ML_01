@@ -57,8 +57,6 @@ All notebooks are executed and available on Kaggle. You can directly run them:
 
 **Vrajesh Hasmukhbhai Patel**
 
-College ID: 22IT120
-
 Internship at: **Prodigy InfoTech**
 
 Duration: 15/05/2025 to 15/06/2025
