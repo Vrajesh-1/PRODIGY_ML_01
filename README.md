@@ -38,7 +38,7 @@ Successfully predicted house prices and visualized actual vs predicted prices.
 ```
 ├── prodigy-ml-01.ipynb
 ├── prodigy-ml-01.png
-├── README.md (this file)
+├── README.md 
 ```
 
 ---
