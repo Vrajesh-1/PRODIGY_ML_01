@@ -36,7 +36,8 @@ Successfully predicted house prices and visualized actual vs predicted prices.
 # Repository Structure 
 
 ```
-├── TaskXX_Notebook.ipynb
+├── prodigy-ml-01.ipynb
+├── prodigy-ml-01.png
 ├── README.md (this file)
 ```
 
@@ -48,15 +49,18 @@ All notebooks are executed and available on Kaggle. You can directly run them:
 
 **Kaggle Linked Repo (Synced from GitHub):**
 
-> *Provide your Kaggle link here once synced*
+> *https://www.kaggle.com/code/vrajeshpatel22it120/prodigy-ml-01*
 
 ---
 
 # Author
 
 **Vrajesh Hasmukhbhai Patel**
+
 College ID: 22IT120
+
 Internship at: **Prodigy InfoTech**
+
 Duration: 15/05/2025 to 15/06/2025
 
 ---
